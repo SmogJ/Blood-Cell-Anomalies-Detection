@@ -60,7 +60,7 @@ This project applies **data science and machine learning** to automate the detec
 
 ### Prerequisites
 - Python 3.9+  
-- Kaggle Notebook 
+- Kaggle Notebook, Colab, Jupyter notebook or JupyterLab 
 - Libraries: `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `tensorflow` or `pytorch`, `shap`, `lime`
 
 ### Installation
